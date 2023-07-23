@@ -2,18 +2,24 @@
 
 **1. 逐飞科技总钻风摄像头**
 ---
-[通用版本，140°普通摄像头，不带MCU](https://item.taobao.com/item.htm?spm=a230r.1.14.16.54054bfaDVqDb7&id=525178417632&ns=1&abbucket=4#detail)
-![通用版本，140°普通摄像头，不带MCU](https://www.z4a.net/images/2023/07/23/9e5d9adf5aa1c43f069176b4d03dc5f0.png)
+[通用版本，130°普通摄像头，不带MCU](https://item.taobao.com/item.htm?spm=a230r.1.14.16.54054bfaDVqDb7&id=525178417632&ns=1&abbucket=4#detail)
+![通用版本，130°普通摄像头，不带MCU](https://www.z4a.net/images/2023/07/23/image69df85df7c390844.png)
 
 **2.编码器两个**
 ---
-[编码器+ACDF齿轮，方向512线编码器/5v](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w5003-24214364676.3.617022790GwZyY&ft=t&id=541516702897&scene=taobao_shop)
-![编码器+ACDF齿轮，方向512线编码器/5v](https://www.z4a.net/images/2023/07/23/923a88a08809bb65e903bf463a07cc84.png)
+[带CDFM车编码器齿轮](https://item.taobao.com/item.htm?spm=a230r.1.14.16.1046263cp1vIuj&id=546995321357&ns=1&abbucket=4#detail)
+![带CDFM车编码器齿轮](https://www.z4a.net/images/2023/07/23/image36e1ca405b429b2d.png)
 
 **3.2S电池及充电器**
 ---
 [2S锂电池+充电器](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-22508770840.25.210e49ccAeMrBh&id=610152052172)
 ![2S锂电池+充电器](https://www.z4a.net/images/2023/07/23/b17eb40cac2695305e90514432df5dc2.png)
+
+
+**或者航模电池，上限高，但比较危险**
+
+[2S TX60+充电器](https://item.taobao.com/item.htm?spm=a230r.1.14.16.35dc57b8UWfaXX&id=41728701920&ns=1&abbucket=3#detail)
+![2S TX60+充电器](https://www.z4a.net/images/2023/07/23/image84e54f98be04b611.png)
 
 **4.逐飞科技TFT屏幕**
 ---
@@ -27,10 +33,5 @@
 
 **6.蓝牙**
 ---
-[蓝牙模块一对](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-22508770840.9.55eb49ccJlx8sV&id=659666395914)
-![蓝牙模块一对](https://www.z4a.net/images/2023/07/23/45ab74c39ab6fbdab2aa81b6c71318a7.png)
-
-**7.TC264学习主板**
----
-[原价驱动模块](https://item.taobao.com/item.htm?spm=a230r.1.14.23.7e3253ceadypSs&id=695777544479&ns=1&abbucket=4#detail)
-![原价驱动模块](https://www.z4a.net/images/2023/07/23/453ea5dcf6609ebcbacb2b08fc30b6e9.png)
+[整套套件（各一个）](https://item.taobao.com/item.htm?spm=a230r.1.14.1.7a681d220uX99f&id=585769297658&ns=1&abbucket=4#detail)
+![整套套件（各一个）](https://www.z4a.net/images/2023/07/23/efe31e37b63c6781f00d0a67c34c964.png)
